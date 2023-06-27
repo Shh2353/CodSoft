@@ -74,7 +74,7 @@ section{
 .agency{
     height: 450px;
     background-size: cover;
-    background-image: url("/istockphoto-690028746-612x612.jpg");
+    background-image: url("istockphoto-690028746-612x612.jpg");
     position: relative;
 }
 .digital{
